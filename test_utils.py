@@ -3,15 +3,12 @@ import utils
 
 def test_fact():
     # À compléter...
-    a = 333
-    assert 5 == 7
+    assert utils.fact(7) == 5040
 
 def test_roots():
-    # À compléter...
-    b=3
-    str(b)
+    
+    assert utils.root(4,3,6) == 4 
 
 def test_integrate():
-    # À compléter...
-    c = 34
-    str(c)
+    # À compléter...  
+    assert utils.integrate( "x^2" , 3, 7) == 7
