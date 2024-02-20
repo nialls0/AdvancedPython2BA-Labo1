@@ -13,5 +13,5 @@ def test_roots():
 
 def test_integrate():
     # À compléter...
-    c = artifi
+    c = 34
     str(c)
