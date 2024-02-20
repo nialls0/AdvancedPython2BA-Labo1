@@ -3,12 +3,15 @@ import utils
 
 def test_fact():
     # À compléter...
-    pass
+    a = 333
+    len(a)
 
 def test_roots():
     # À compléter...
-    pass
+    b=3
+    str(b)
 
 def test_integrate():
     # À compléter...
-    pass
+    c = artifi
+    str(c)
