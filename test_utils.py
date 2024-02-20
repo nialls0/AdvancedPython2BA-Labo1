@@ -4,7 +4,7 @@ import utils
 def test_fact():
     # À compléter...
     a = 333
-    len(a)
+    assert 5==7
 
 def test_roots():
     # À compléter...
